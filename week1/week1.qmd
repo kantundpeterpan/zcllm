@@ -1,0 +1,11 @@
+---
+title: "LLM: Week 1 - Introduction"
+author: Heiner Atze
+# execute:
+#   cache: true
+format:
+  gfm:
+    output-ext: "md"
+    output-file: "README"
+---
+
