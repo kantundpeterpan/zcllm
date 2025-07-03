@@ -1,0 +1,14 @@
+---
+title: "LLM: Week 2 - Vector Search"
+author: Heiner Atze
+# execute:
+#   cache: true
+format:
+  gfm:
+    output-ext: "md"
+    output-file: "README"
+---
+
+# Getting started with Vector Search and Qdrant
+
+# Hybrid search with Qdrant
