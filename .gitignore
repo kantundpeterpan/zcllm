@@ -12,3 +12,4 @@ wheels/
 
 # project folder = repo on its own
 medicode
+.env

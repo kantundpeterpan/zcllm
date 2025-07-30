@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dlt[qdrant]>=1.14.1",
+    "dotenv>=0.9.9",
     "elasticsearch==8.17",
     "fastapi>=0.115.12",
     "fastembed>=0.7.0",
@@ -15,10 +16,14 @@ dependencies = [
     "langchain-qdrant>=0.2.0",
     "langgraph>=0.4.8",
     "lxml>=5.4.0",
-    "minsearch>=0.0.2",
+    "markdown>=3.8.2",
+    "minsearch==0.0.4",
+    "nbconvert>=7.16.6",
     "notebook>=7.4.3",
     "openai>=1.82.1",
     "pandas>=2.2.3",
+    "pydantic-ai>=0.4.3",
+    "pydantic-ai-slim[openai]>=0.4.3",
     "qdrant-client[fastembed]>=1.14.2",
     "scikit-learn>=1.6.1",
     "streamlit>=1.45.1",
