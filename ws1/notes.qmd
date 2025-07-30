@@ -1,0 +1,11 @@
+---
+title: LLM Zoomcamp - Workshop dlt + cognee
+subtitle: notes
+---
+
+# Data ingestion using `dlt` plus `cognee`
+
+# NYC taxi dataset example
+
+# REST API source doc example
+
