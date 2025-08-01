@@ -10,6 +10,7 @@ dependencies = [
     "elasticsearch==8.17",
     "fastapi>=0.115.12",
     "fastembed>=0.7.0",
+    "fastmcp>=2.10.6",
     "ipykernel>=6.29.5",
     "langchain>=0.3.25",
     "langchain-openai>=0.3.22",
